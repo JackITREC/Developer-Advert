@@ -1,0 +1,49 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #C0BCBC;
+}
+
+.header {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.main {
+	margin-top: 125px;
+	background-color: #E5E2E2;
+	box-shadow: 10px 10px 5px #888888;
+	color: #010101;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	color: #00BFFF;
+}
+
+.skill ul {
+	font-weight: bold;
+}
+
+.location ul {
+	font-weight: bold;
+}
+
+.footer {
+	color: #010101;
+}
+
+a {
+	text-decoration: none;
+	color: #00BFFF;
+	font-weight: bold;
+}
+
+.animation {
+	color: #00BFFF;
+}
